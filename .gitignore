@@ -2,5 +2,7 @@
 public/
 resources/
 node_modules/
+.github/styles/*
+!.github/styles/Vocab
 .hugo_build.lock
 .DS_Store
