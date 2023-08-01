@@ -1,0 +1,33 @@
+Aniszczyk
+API
+(?i)approvers
+architected
+(?i)autoscal*
+cloud native
+CNCF
+containerd
+cyber
+datacenter(s\b|\b)
+Datadog
+declaratively
+gRPC
+idempotence 
+Ispas
+Jihoon
+K8s
+Katelin
+KubeCon
+(?i)multitenan*
+misconfiguration
+open source
+overdemand
+Ramer
+reusability
+rollout
+Seo
+Seokho
+(?i)serverless
+SRE
+subnet
+virtualiz*
+VM
